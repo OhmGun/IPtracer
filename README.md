@@ -4,7 +4,6 @@ A simple IP locator tool
 
 
 #### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
-#### Credits - [Deadpool2000](https://github.com/Deadpool2000/)
 
 
 #### Installation
