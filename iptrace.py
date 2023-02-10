@@ -114,9 +114,9 @@ try:
 
         
     def main():
-        u=input(G+"\n>>> "+Y+"Masukan IP Address/Alamat Website tujuan:"+W+" ")
+        u=input(G+"\n>>> "+Y+"Masukan IP Address / Alamat Website tujuan:"+W+" ")
         if u=="":
-            print(R+"\nmasukan IP Address/website address yang benar!")
+            print(R+"\nmasukan IP Address / website address yang benar!")
             main()
         else:
             url ='http://ip-api.com/json/'+u
