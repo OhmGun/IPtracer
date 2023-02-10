@@ -38,7 +38,7 @@ try:
 2)"""+G+""" Trace IP info Lainnya"""+Y+"""
 3)"""+G+""" Keluar
 """)
-            ch=int(input(CY+"Enter Your choice: "+W))
+            ch=int(input(CY+"Masukan Pilihan Anda : "+W))
             if ch==1:
                 main2()
                 m3()
