@@ -1,9 +1,9 @@
-### IPTrace
+### IPtracer
 
 A simple IP locator tool
 
 
-### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
+#### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
 
 
 ## Installation :
