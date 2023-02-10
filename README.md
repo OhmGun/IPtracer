@@ -12,7 +12,7 @@ A simple IP locator tool
 
 * git clone https://github.com/OhmGun/IPtracer.git
 
-* cd IPTracer
+* cd IPtracer
 
 * python3 iptrace.py
 
@@ -31,7 +31,10 @@ A simple IP locator tool
 
 ## Tested On
 
-* Ubuntu
+* Linux Debian / Ubuntu
+* CentOS
+* Kali Linux
 * Parrot OS
 * Termux
 * Mac OS
+* Windows
