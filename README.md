@@ -6,9 +6,9 @@ A simple IP locator tool
 #### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
 
 
-#### Installation
+## Installation :
 
-apt-get install python3
+* 'apt-get install python3'
 
 git clone https://github.com/OhmGun/IPtracer.git
 
