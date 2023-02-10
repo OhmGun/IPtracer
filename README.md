@@ -1,38 +1,37 @@
-#### IPTrace
+### IPTrace
 
 A simple IP locator tool
 
 
-#### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
+### Author - [Guntur Sulistyo Raharjo](https://github.com/ohmgun/)
 
 
 ## Installation :
 
-* 'apt-get install python3'
+* apt-get install python3
 
-git clone https://github.com/OhmGun/IPtracer.git
+* git clone https://github.com/OhmGun/IPtracer.git
 
-cd IPTracer
+* cd IPTracer
 
-python3 iptrace.py
-
-
-
-#### Features
-
-Get your IP address info
-
-Get any website's IP Address info
-
-Open IP address loaction from your browser and Google Maps
+* python3 iptrace.py
 
 
 
+## Features
 
-#### Tested On
+* Get your IP address info
 
-Ubuntu
+* Get any website's IP Address info
 
-Parrot OS
+* Open IP address loaction from your browser and Google Maps
 
-Termux
+
+
+
+## Tested On
+
+* Ubuntu
+* Parrot OS
+* Termux
+* Mac OS
