@@ -63,7 +63,7 @@ try:
                 print(R+"\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
                 print(Y+'\n>>>'+CY+' IP address details\n ')
                 print(G+"1) IP Address : "+Y,data['query'],'\n')
-                print(G+"2) Upstream : "+Y,data['org'],'\n')
+                print(G+"2) Organisasi : "+Y,data['org'],'\n')
                 print(G+"3) Provider : "+Y,data['isp'],'\n')
                 print(G+"4) AS Number : "+Y,data['as'],'\n')
                 print(G+"5) Kota : "+Y,data['city'],'\n')
