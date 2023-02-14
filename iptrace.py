@@ -65,6 +65,7 @@ try:
                 print(G+"1) IP Address : "+Y,data['query'],'\n')
                 print(G+"2) Upstream : "+Y,data['org'],'\n')
                 print(G+"3) Provider : "+Y,data['isp'],'\n')
+                print(G+"3) AS Number : "+Y,data['as'],'\n')
                 print(G+"4) Kota : "+Y,data['city'],'\n')
                 print(G+"5) Kode Pos : "+Y,data['zip'],'\n')
                 print(G+"6) Provinsi : "+Y,data['regionName'],'\n')
@@ -72,7 +73,7 @@ try:
                 print(G+"8) Koordinat\n")
                 print(G+"\tLattitude : "+Y,data['lat'],'\n')
                 print(G+"\tLongitude : "+Y,data['lon'],'\n')
-                l='https://www.google.com/maps/place/'+str(data['lat'])+'+'+str(data['lon'])
+                l='https://www.google.com/maps/place/'+str(data['lat'])+','+str(data['lon'])
                 print(R+"\n#"+Y+" Google Map link : "+CY,l)
                 path=os.path.isfile('/data/data/com.termux/files/usr/bin/bash')
                 if path:
